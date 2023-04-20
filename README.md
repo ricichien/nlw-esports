@@ -1,6 +1,6 @@
-
-
-<p align="center"> ![nlw-esports-logo](https://user-images.githubusercontent.com/85197053/233233343-e6e9f728-379a-4d11-92ac-b164958264a4.svg) </p>
+<p align="center"> 
+ <img src="https://user-images.githubusercontent.com/85197053/233233551-7d5aa28e-29d8-4454-a4c8-c802175657be.svg)" alt="Next Level Week Esports Logo"/></p>
+</p>
 <br>
 
 The evolved version of the **Esports** project on the [Next Level Week](https://lp.rocketseat.com.br/nlw) by Rocketseat.
