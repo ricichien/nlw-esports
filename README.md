@@ -1,38 +1,8 @@
-<p align="center"> 
- <img src="https://user-images.githubusercontent.com/85197053/233233551-7d5aa28e-29d8-4454-a4c8-c802175657be.svg)" alt="Next Level Week Esports Logo"/></p>
-</p>
-<br>
-
-The evolved version of the **Esports** project on the [Next Level Week](https://lp.rocketseat.com.br/nlw) by Rocketseat.
-
-The web client is deployed on Vercel here:
-
- https://nlw-esports-ignite.vercel.app/
-
-The server is deployed on Fly here: 
-
-https://nlw-esports.fly.dev/games
-
-<hr>
-
-**WORK IN PROGRESS:** Internationalization (i18n), new screens, form validations, unit tests w/ Jest, e2e tests w/ Cypress, pipeline deploy w/ Github Actions.
-
-<hr>
-<br>
-
-  - [Description](#description)
-  - [Stack and tools](#stack-and-tools)
-  - [Quickstart](#quickstart)
-
-<br>
-
 ## Description
 
-The project is called *Find your Duo*.
-It is a platform to find the perfect partner to play your favorite game together, by connecting your Twitch.tv account.
+*Find your Duo* is a mobile and web platform developed in partnership with Rocketseat NLW Esport Ignite programm. You can use this platform to find the perfect partner to play your favorite games by connecting your Twitch account.
 
-<p align="center">
-<img src="./assets/img/app-preview.jpeg" alt="Next Level Week Esports Logo"/></p>
+![app-preview](https://user-images.githubusercontent.com/85197053/233234339-664042d5-99ac-4b6e-81a4-e86711b1d34f.jpeg)
 
 ## Stack and tools
 * [Node.js](https://nodejs.org/en/)
