@@ -1,7 +1,7 @@
-<p align="center"></p>
 
-<br>![nlw-esports-logo](https://user-images.githubusercontent.com/85197053/233233343-e6e9f728-379a-4d11-92ac-b164958264a4.svg)
 
+<p align="center"> ![nlw-esports-logo](https://user-images.githubusercontent.com/85197053/233233343-e6e9f728-379a-4d11-92ac-b164958264a4.svg) </p>
+<br>
 
 The evolved version of the **Esports** project on the [Next Level Week](https://lp.rocketseat.com.br/nlw) by Rocketseat.
 
